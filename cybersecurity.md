@@ -1,8 +1,8 @@
 # 1. Fundamentals of Cybersecurity
-## Networking Basics: Understand TCP/IP, DNS, routing, VPN, and NAT.
-## Operating System Security: Focus on Windows, Linux (especially Ubuntu), and Mac OS.
-   Programming & Scripting: Learn Python, Bash, and PowerShell for automation, and JavaScript for web security.
-## Encryption: Know the basics of cryptography, including symmetric (AES), asymmetric (RSA), hashing (SHA-256), and PKI (Public Key Infrastructure).
+  Networking Basics: Understand TCP/IP, DNS, routing, VPN, and NAT.
+  Operating System Security: Focus on Windows, Linux (especially Ubuntu), and Mac OS.
+  Programming & Scripting: Learn Python, Bash, and PowerShell for automation, and JavaScript for web security.
+  Encryption: Know the basics of cryptography, including symmetric (AES), asymmetric (RSA), hashing (SHA-256), and PKI (Public Key Infrastructure).
 # 2. Key Cybersecurity Concepts
   Risk Management: Risk assessment, vulnerability management, and threat modeling.
   Access Control: Authentication (MFA), authorization, identity management.
@@ -34,9 +34,9 @@
   SIEM: Splunk, Elasticsearch (ELK), Graylog.
   Vulnerability Management: Qualys, OpenVAS.
   Certifications:
-   CompTIA Security+: Foundation-level.
-   Certified Ethical Hacker (CEH): Intermediate penetration testing.
-   CISSP: Comprehensive, for senior roles.
+  CompTIA Security+: Foundation-level.
+  Certified Ethical Hacker (CEH): Intermediate penetration testing.
+  CISSP: Comprehensive, for senior roles.
   OSCP: Offensive Security Certified Professional (advanced pen testing).
 # 8. Advanced Topics
  Forensics: Learn about disk analysis, file carving, memory forensics using tools like Autopsy, FTK.
@@ -50,5 +50,5 @@
 # 10. Stay Updated
   Blogs & Websites: Krebs on Security, Dark Reading, Threatpost.
   Cybersecurity Communities: Follow Reddit, LinkedIn groups, Twitter hashtags (#infosec, #cybersecurity).
-Industry Reports: Read annual threat reports (Verizon DBIR, FireEye).
-Taking it one step at a time and gaining hands-on experience will steadily build your skills.
+  Industry Reports: Read annual threat reports (Verizon DBIR, FireEye).
+  Taking it one step at a time and gaining hands-on experience will steadily build your skills.
