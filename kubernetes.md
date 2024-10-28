@@ -20,4 +20,6 @@ To master Kubernetes, a good approach is to build expertise across key areas, fr
 
 #### Certification and Community Resources: Consider certifications like Certified Kubernetes Administrator (CKA) to validate your skills. Use Kubernetes Slack, GitHub, and forums to stay updated.
 
-Let me know if you'd like specific resources for any of these areas!
+https://github.com/marketplace/actions/deploy-to-kubernetes-cluster
+
+Let me know if you'd like specific resources for any of these areas
